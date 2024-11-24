@@ -1,8 +1,7 @@
 <div align="center" >
 
-# 🌟 Welcome a mi GitHub :3
-
-![Banner](./fondo.png)
+  # 🌟 Welcome a mi GitHub :3
+  ![Banner](./fondo.png)
 
 </div>
 
