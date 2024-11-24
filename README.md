@@ -9,13 +9,14 @@
 - 📚 Mis hobbies son **los videojuegos** (jugarlos como también crearlos), **la programación con sentido** y **perseguir
   fantasmas**.
 - 📫 Me cae mal **Linux** y **MacOS**, pero no sus usuarios C: !
-
+- 🐾 Me gustan los 🐕 **Perros**, 🐈‍⬛ **Gatos** y los 🐤 **Chocobos** :D
 ---
 
-<div align="center">
-
+<div align="center" style="margin: 50px" >
+  
+  ![Gato](./gato.gif) 
   ![Chocobo](./chocobo.gif)
-  ![Gato](./gato.gif)
+
   ---
   
   ## 💻 **Habilidades**
@@ -51,8 +52,6 @@
   ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=rekznoz&layout=compact&theme=radical)
 
 </div>
-
----
 
 <!--
 
