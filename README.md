@@ -1,6 +1,10 @@
+<div align="center" >
+
 # 🌟 Welcome a mi GitHub :3
 
----
+![Banner](./fondo.png)
+
+</div>
 
 ## 🛠️ **Sobre mí**
 
@@ -10,14 +14,12 @@
   fantasmas**.
 - 📫 Me cae mal **Linux** y **MacOS**, pero no sus usuarios C: !
 - 🐾 Me gustan los 🐕 **Perros**, 🐈‍⬛ **Gatos** y los 🐤 **Chocobos** :D
----
 
-<div align="center" style="margin: 50px" >
+<div align="center" >
   
   ![Gato](./gato.gif) 
   ![Chocobo](./chocobo.gif)
 
-  ---
   
   ## 💻 **Habilidades**
 
