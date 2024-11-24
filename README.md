@@ -6,20 +6,20 @@
 
 - 🌍 Vivo en **España**.
 - 🎓 Soy **Tecnico Electricista y Tecnico en Sistemas Informaticos y Redes!**
-- 🌱 Actualmente estoy aprendiendo **React** y **Node.js**.
-- 💼 Actualmente estoy buscando trabajo como **Desarrollador Frontend**.
 - 📚 Mis hobbies son **los videojuegos** (jugarlos como también crearlos), **la programación con sentido** y **perseguir
   fantasmas**.
-- 📫 No soy para nada fan de **Linux** !
+- 📫 Me cae mal **Linux** y **MacOS**, pero no sus usuarios C: !
 
-![Chocobo](./chocobo.gif)
 ---
 
-## 💻 **Habilidades**
-
-
-
 <div align="center">
+
+  ![Chocobo](./chocobo.gif)
+  ![Gato](./gato.gif)
+  ---
+  
+  ## 💻 **Habilidades**
+
 
   ### **Lenguajes y Tecnologías**
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
@@ -30,11 +30,6 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
   ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&style=flat)
-
-
-</div>
-
-<div align="center">
 
   ### **Herramientas**
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
@@ -49,16 +44,11 @@
   ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=flat)
   ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat)
 
-</div>
----
-
-<div align="center">
-
-## 📈 **Mis estadísticas**
-
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rekznoz&show_icons=true&theme=radical)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=rekznoz&layout=compact&theme=radical)
+  ## 📈 **Mis estadísticas**
+  
+  ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rekznoz&show_icons=true&theme=radical)
+  
+  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=rekznoz&layout=compact&theme=radical)
 
 </div>
 
